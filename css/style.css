@@ -1,0 +1,30 @@
+body{
+  background-color: rgb(145, 190, 148);
+  color: white;
+  font-family: 'Anton', sans-serif;
+}
+
+input{
+  border-radius: 2px;
+
+}
+h1, h2{
+  font-size: 36px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+button{
+  border-radius: 6px;
+  color: white;
+  background-color: rgb(71, 90, 147);
+  font-size: 24px;
+  display: block;
+
+}
+
+input{
+  font-size: 24px;
+  display: block;
+  margin-bottom: 10px;
+}
